@@ -40,6 +40,10 @@ Om een nieuwe widget front-end te maken:
 
 Wens je wijzigingen te maken aan deze starter kit, kom dan even langs op het [#acpaas-ui-ngx slack channel](https://acpaas-ui.digipolis.be/contact) of maak een github issue.
 
+## Support
+
+Joeri Sebrechts (<joeri.sebrechts@digipolis.be>)
+
 ## Licentie
 
 Dit project is gepubliceerd onder de [MIT licentie](LICENSE.md).
